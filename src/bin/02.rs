@@ -1,7 +1,6 @@
 use adv_code_2025::start_day;
 use anyhow::Result;
 use const_format::concatcp;
-use itertools::Itertools;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
 
